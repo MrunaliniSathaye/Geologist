@@ -24,7 +24,7 @@ function setup(){
 }
 
 function draw(){
-    background("lightBlue");
+    background("Black");
     Engine.update(engine);
 
 
